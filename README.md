@@ -110,7 +110,7 @@ My work focuses on connecting **physical devices to secure, scalable cloud platf
 ## 🌐 Let’s Connect
 
 <p>
-  <a href="https://www.linkedin.com/" target="amartyaroy12">
+  <a href="https://www.linkedin.com/amartyaroy12" target="amartyaroy12">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:asteramartya12@gmail.com">
