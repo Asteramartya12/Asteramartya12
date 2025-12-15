@@ -1,4 +1,4 @@
-<h1 align="center">Amartya</h1>
+<h1 align="center">Amartya Roy</h1>
 <h3 align="center">🔌 IoT Developer • 🐍 Python Developer • ☁️ Cloud & Distributed Systems</h3>
 
 <p align="center">
@@ -34,7 +34,7 @@ My work focuses on connecting **physical devices to secure, scalable cloud platf
 
 ### 🐍 Programming
 <p>
-  <img src="https://skillicons.dev/icons?i=python,nodejs" />
+  <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ### 🔌 IoT, Cloud & DevOps
